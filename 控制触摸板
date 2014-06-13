@@ -1,0 +1,5 @@
+关闭笔记本触摸板 ：
+sudo rmmod psmouse
+ 
+要恢复也简单：
+sudo modprobe psmouse

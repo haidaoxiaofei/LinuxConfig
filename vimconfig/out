@@ -1,0 +1,5 @@
+alias goagent='python /home/bigstone/infoBackup/goagent/proxy.py'
+alias myshutdown='sudo shutdown -h now'
+end
+alias goagent='python /home/bigstone/infoBackup/goagent/proxy.py'
+alias myshutdown='sudo shutdown -h now'
