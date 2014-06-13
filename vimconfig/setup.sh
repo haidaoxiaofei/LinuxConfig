@@ -1,5 +1,5 @@
 #!/bin/bash
-cp -r ~/infoBackup/vimconfig/.vim ~/
-cp  ~/infoBackup/vimconfig/.vimrc ~/
-cat ~/infoBackup/vimconfig/myAlias >> ~/.bashrc
-sudo cp ~/infoBackup/vimconfig/tags /usr/include/
+cp -r .vim ~/
+cp  .vimrc ~/
+cp myAlias  ~/.bash_aliases
+sudo cp tags /usr/include/
