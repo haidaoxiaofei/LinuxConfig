@@ -78,3 +78,4 @@ let OmniCpp_ShowPrototypeInAbbr = 1 " show function prototype (i.e. p    aramete
 "--ctags setting--
 set tags+=/usr/include/tags "add library tags
 
+:imap jj <Esc>
