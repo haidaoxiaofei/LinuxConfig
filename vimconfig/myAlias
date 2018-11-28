@@ -1,12 +1,8 @@
-#alias goagent='python /home/bigstone/infoBackup/goagent/proxy.py'
 alias myshutdown='sudo shutdown -h now'
 alias is='sudo apt-get install'
 alias update='sudo apt-get update'
-#alias astudio='/home/bigstone/android-studio/bin/studio.sh'
-alias matlab='/usr/local/MATLAB/R2013b/bin/glnxa64/MATLAB'
 alias lampp='/opt/lampp/lampp'
 alias apt='sudo apt-get'
-#alias mendeley='/home/bigstone/mendeleydesktop-1.11-linux-x86_64/bin/mendeleydesktop'
-alias cpuServer='ssh -X pchengaa@lcpu11.cse.ust.hk'
 alias j='autojump'
-
+alias lss='sudo du -h --max-depth=1'
+alias tm="tmux -CC attach || tmux -CC new"
